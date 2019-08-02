@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5186bf0-5e44-45a8-9b9a-67488156ff55" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controller/Api/ArticleController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="636">
+              <caret line="212" column="5" lean-forward="true" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
+              <folding>
+                <element signature="e#676#721#0#PHP" />
+                <element signature="e#752#818#0#PHP" />
+                <element signature="e#844#915#0#PHP" />
+                <element signature="e#953#1297#0#PHP" />
+                <element signature="e#1136#1408#0#PHP" />
+                <element signature="e#1414#1679#0#PHP" />
+                <element signature="e#1602#1823#0#PHP" />
+                <element signature="e#1829#2104#0#PHP" />
+                <element signature="e#1986#2202#0#PHP" />
+                <element signature="e#2532#2979#0#PHP" />
+                <element signature="e#2240#2413#0#PHP" />
+                <element signature="e#2418#2617#0#PHP" />
+                <element signature="e#2623#2744#0#PHP" />
+                <element signature="e#2749#3031#0#PHP" />
+                <element signature="e#3037#3260#0#PHP" />
+                <element signature="e#3265#3528#0#PHP" />
+                <element signature="e#4252#4450#0#PHP" />
+                <element signature="e#4455#5423#0#PHP" />
+                <element signature="e#4652#4723#0#PHP" />
+                <element signature="e#5020#5295#0#PHP" />
+                <element signature="e#5060#5294#1#PHP" />
+                <element signature="e#5319#5382#0#PHP" />
+                <element signature="e#5429#5604#0#PHP" />
+                <element signature="e#5609#7061#0#PHP" />
+                <element signature="e#6179#6253#0#PHP" />
+                <element signature="e#6552#6934#0#PHP" />
+                <element signature="e#6592#6933#1#PHP" />
+                <element signature="e#6958#7021#0#PHP" />
+                <element signature="e#7068#7176#0#PHP" />
+                <element signature="e#7181#10288#0#PHP" />
+                <element signature="e#7483#7553#0#PHP" />
+                <element signature="e#7603#7729#0#PHP" />
+                <element signature="e#7603#7775#0#PHP" />
+                <element signature="e#7603#7814#0#PHP" />
+                <element signature="e#7603#7867#0#PHP" />
+                <element signature="e#7603#7904#0#PHP" />
+                <element signature="e#7934#8004#0#PHP" />
+                <element signature="e#8035#10217#0#PHP" />
+                <element signature="e#8136#8253#0#PHP" />
+                <element signature="e#8136#8283#0#PHP" />
+                <element signature="e#8342#8458#0#PHP" />
+                <element signature="e#8529#8798#0#PHP" />
+                <element signature="e#8654#8784#0#PHP" />
+                <element signature="e#8859#8933#0#PHP" />
+                <element signature="e#8859#8963#0#PHP" />
+                <element signature="e#9069#9191#0#PHP" />
+                <element signature="e#9234#10017#0#PHP" />
+                <element signature="e#9560#10003#0#PHP" />
+                <element signature="e#9677#10003#0#PHP" />
+                <element signature="e#9703#9985#0#PHP" />
+                <element signature="e#9881#9985#0#PHP" />
+                <element signature="e#10295#10411#0#PHP" />
+                <element signature="e#10416#12467#0#PHP" />
+                <element signature="e#10645#10708#0#PHP" />
+                <element signature="e#10645#10761#0#PHP" />
+                <element signature="e#10791#10868#0#PHP" />
+                <element signature="e#10918#11005#0#PHP" />
+                <element signature="e#10918#11042#0#PHP" />
+                <element signature="e#10918#11087#0#PHP" />
+                <element signature="e#11180#11325#0#PHP" />
+                <element signature="e#11378#11448#0#PHP" />
+                <element signature="e#11378#11478#0#PHP" />
+                <element signature="e#11529#11643#0#PHP" />
+                <element signature="e#11678#12408#0#PHP" />
+                <element signature="e#11987#12398#0#PHP" />
+                <element signature="e#12096#12398#0#PHP" />
+                <element signature="e#12118#12384#0#PHP" />
+                <element signature="e#12288#12384#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Model/Logic/ArticleLogic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="251" selection-start-line="251" selection-end-line="251" />
+              <folding>
+                <element signature="e#1271#1480#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/language/zh/apiMsg.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Model/Data/ArticleData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Model/Dao/ArticleDao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+              <folding>
+                <element signature="e#2109#2179#0#PHP" />
+                <element signature="e#2166#2924#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Model/Dao/UserCenterDao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config(</find>
+      <find>cache()</find>
+      <find>setCharset</find>
+      <find>charset</find>
+      <find>DisabledWord</find>
+      <find>Context</find>
+      <find>response()-&gt;apiResponse</find>
+      <find>$userId = session()-&gt;get('userId');</find>
+      <find>Redis::get('userId')</find>
+      <find>use App\Models</find>
+      <find>namespace App\Models</find>
+      <find>use Swoft\Bean\Annotation\Bean;</find>
+      <find>namespace App\Controller\Api;</find>
+      <find>@Nm</find>
+      <find>@N</find>
+      <find>Enum</find>
+      <find>Number</find>
+      <find>Strings</find>
+      <find>Bean</find>
+      <find>ControllerApiMiddleware</find>
+      <find>use App\Middleware\ControllerApiMiddleware;</find>
+      <find>ValidatorFrom</find>
+      <find>FsFeedback</find>
+      <find>Db::query($sql)-&gt;getResult()</find>
+      <find>use Swoft\Db\Db;</find>
+      <find>return Db::</find>
+      <find>return response()-&gt;apiResponse($data['data'], $data['code']);</find>
+      <find>getAge</find>
+      <find>getAg</find>
+      <find>paginate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>use Swoft\Http\Message\Response;</replace>
+      <replace>use App\Model\Entity\ArtCommentStar;</replace>
+      <replace>use App\Model\Entity\Collection;</replace>
+      <replace>Collection</replace>
+      <replace>use App\Model\Entity\Notice;</replace>
+      <replace>Notice</replace>
+      <replace>use App\Model\Entity\NoticeMsg;</replace>
+      <replace>use App\Model\Entity\Star;</replace>
+      <replace>Star</replace>
+      <replace>use App\Model\Entity\TopicComment;</replace>
+      <replace>TopicComment</replace>
+      <replace>use App\Model\Entity\CommentMsg;</replace>
+      <replace>CommentMsg</replace>
+      <replace>use App\Model\Entity\DisabledWord;</replace>
+      <replace>DisabledWord</replace>
+      <replace>use App\Model\Entity\TopicCommentReply;</replace>
+      <replace>Topic</replace>
+      <replace>use App\Model\Entity\TopicCommentStar;</replace>
+      <replace>use App\Model\Entity\TopicVote;</replace>
+      <replace>use App\Middleware\ControllerApiMiddleware;</replace>
+      <replace>$userId = Redis::get('userId');</replace>
+      <replace>use App\Model</replace>
+      <replace>namespace App\Model</replace>
+      <replace>use Swoft\Bean\Annotation\Mapping\Bean;</replace>
+      <replace>namespace App\Http\Controller\Api;</replace>
+      <replace>use App\Http\Middleware\ControllerApiMiddleware;</replace>
+      <replace>Db::select($sql)</replace>
+      <replace>use Swoft\Db\DB;</replace>
+      <replace>return DB::</replace>
+      <replace>return response()-&gt;apiResponse($data['data'], $data['code']);</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Http/Controller/api/TestController.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Model/Logic/BreakerLogic.php" />
+        <option value="$PROJECT_DIR$/config/base.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/LoginAuthMiddleware.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controller/Api/TestController.php" />
+        <option value="$PROJECT_DIR$/app/Model/Dao/DisabledWordDao.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controller/HomeController.php" />
+        <option value="$PROJECT_DIR$/app/Helper/Functions.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controller/Api/LoginController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controller/Api/AppController.php" />
+        <option value="$PROJECT_DIR$/app/Model/Logic/AppLogic.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controller/Api/ArtCategoryController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controller/Api/MessageController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controller/Api/TopicController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/ControllerApiMiddleware.php" />
+        <option value="$PROJECT_DIR$/app/Model/Dao/FeedbackDao.php" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/app/Model/Data/FeedbackData.php" />
+        <option value="$PROJECT_DIR$/app/Model/Dao/UserCenterDao.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controller/Api/UserCenterController.php" />
+        <option value="$PROJECT_DIR$/app/Model/Dao/SubscribeDao.php" />
+        <option value="$PROJECT_DIR$/app/Model/Data/SubscribeData.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controller/Api/UserController.php" />
+        <option value="$PROJECT_DIR$/app/Model/Logic/UserLogic.php" />
+        <option value="$PROJECT_DIR$/app/Model/Dao/UserDao.php" />
+        <option value="$PROJECT_DIR$/app/Model/Data/UserData.php" />
+        <option value="$PROJECT_DIR$/app/Model/Data/CollectionData.php" />
+        <option value="$PROJECT_DIR$/app/Model/Dao/CollectionDao.php" />
+        <option value="$PROJECT_DIR$/app/Model/Data/StarData.php" />
+        <option value="$PROJECT_DIR$/app/Model/Dao/StarDao.php" />
+        <option value="$PROJECT_DIR$/bin/swoft" />
+        <option value="$PROJECT_DIR$/app/bean.php" />
+        <option value="$PROJECT_DIR$/app/Validator/ApiValidator.php" />
+        <option value="$PROJECT_DIR$/app/Validator/CommonValidator.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controller/Api/FeedbackController.php" />
+        <option value="$PROJECT_DIR$/app/Validator/ArticleValidator.php" />
+        <option value="$PROJECT_DIR$/app/Model/Data/ArticleData.php" />
+        <option value="$PROJECT_DIR$/app/Model/Dao/ArticleDao.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controller/Api/ArticleController.php" />
+        <option value="$PROJECT_DIR$/resource/language/zh/apiMsg.php" />
+        <option value="$PROJECT_DIR$/app/Model/Logic/ArticleLogic.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/swoft/rpc" />
+      <path value="$PROJECT_DIR$/vendor/swoft/console" />
+      <path value="$PROJECT_DIR$/vendor/swoft/tcp" />
+      <path value="$PROJECT_DIR$/vendor/swoft/annotation" />
+      <path value="$PROJECT_DIR$/vendor/swoft/bean" />
+      <path value="$PROJECT_DIR$/vendor/swoft/event" />
+      <path value="$PROJECT_DIR$/vendor/swoft/rpc-server" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/swoft/http-server" />
+      <path value="$PROJECT_DIR$/vendor/swoft/limiter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/swoft/tcp-server" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/swoft/view" />
+      <path value="$PROJECT_DIR$/vendor/swoft/redis" />
+      <path value="$PROJECT_DIR$/vendor/swoft/stdlib" />
+      <path value="$PROJECT_DIR$/vendor/swoft/error" />
+      <path value="$PROJECT_DIR$/vendor/swoft/validator" />
+      <path value="$PROJECT_DIR$/vendor/swoft/websocket-server" />
+      <path value="$PROJECT_DIR$/vendor/swoft/log" />
+      <path value="$PROJECT_DIR$/vendor/swoft/breaker" />
+      <path value="$PROJECT_DIR$/vendor/swoft/aop" />
+      <path value="$PROJECT_DIR$/vendor/swoft/server" />
+      <path value="$PROJECT_DIR$/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/vendor/swoft/http-message" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/swoft/db" />
+      <path value="$PROJECT_DIR$/vendor/swoft/config" />
+      <path value="$PROJECT_DIR$/vendor/swoft/rpc-client" />
+      <path value="$PROJECT_DIR$/vendor/swoft/consul" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/swoft/connection-pool" />
+      <path value="$PROJECT_DIR$/vendor/swoft/task" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/swoft/framework" />
+      <path value="$PROJECT_DIR$/vendor/swoft/proxy" />
+      <path value="$PROJECT_DIR$/vendor/toolkit/cli-utils" />
+      <path value="$PROJECT_DIR$/vendor/swoft/i18n" />
+      <path value="$PROJECT_DIR$/vendor/swoft/apollo" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/text/template" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/swoft/devtool" />
+      <path value="$PROJECT_DIR$/vendor/swoft/swoole-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/lustre/php-dfa-sensitive" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="8" />
+    <option name="y" value="97" />
+    <option name="width" value="1321" />
+    <option name="height" value="554" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fengsu_backend_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengsu_backend_v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fengsu_backend_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengsu_backend_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fengsu_backend_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengsu_backend_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fengsu_backend_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengsu_backend_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fengsu_backend_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengsu_backend_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fengsu_backend_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengsu_backend_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fengsu_backend_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengsu_backend_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="language" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fengsu_backend_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengsu_backend_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="language" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Validator" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\fengsu_backend_v1\app\Validator" />
+      <recent name="Z:\fengsu_backend_v1\app\Http\Middleware" />
+      <recent name="Z:\fengsu_backend_v1\app\Http\Controller\Api" />
+      <recent name="Z:\swoft\resource\language" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5186bf0-5e44-45a8-9b9a-67488156ff55" name="Default Changelist" comment="" />
+      <created>1563260500534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563260500534</updated>
+      <workItem from="1563260504835" duration="3634000" />
+      <workItem from="1563351250216" duration="4904000" />
+      <workItem from="1563412735365" duration="43185000" />
+      <workItem from="1563615677407" duration="26166000" />
+      <workItem from="1563758163404" duration="11000" />
+      <workItem from="1563758180187" duration="4192000" />
+      <workItem from="1563765653012" duration="25000" />
+      <workItem from="1563766367089" duration="904000" />
+      <workItem from="1563767411016" duration="29140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="112161000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="8" y="97" width="1321" height="554" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21728787" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Model/Logic/UserCenterLogic.php" />
+    <entry file="file://$PROJECT_DIR$/config/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AutoLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Data/UserCenterData.php" />
+    <entry file="file://$PROJECT_DIR$/app/Model/Dao/SubscribeDao.php" />
+    <entry file="file://$PROJECT_DIR$/app/Model/Data/SubscribeData.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controller/Api/UserCenterController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controller/Api/UserController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Model/Logic/UserLogic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="131" column="39" selection-start-line="131" selection-start-column="39" selection-end-line="131" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controller/LimiterController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controller/BeanController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Model/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controller/DbModelController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controller/LogController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controller/ViewController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Listener/UserSavingListener.php" />
+    <entry file="file://$PROJECT_DIR$/app/Listener/RanListener.php" />
+    <entry file="file://$PROJECT_DIR$/app/Listener/ModelSavedListener.php" />
+    <entry file="file://$PROJECT_DIR$/app/Listener/DeregisterServiceListener.php" />
+    <entry file="file://$PROJECT_DIR$/app/Listener/RegisterServiceListener.php" />
+    <entry file="file://$PROJECT_DIR$/app/Migration/AddUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Migration/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Migration/AddMsg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Dao/UserDao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="84" column="7" lean-forward="true" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+          <folding>
+            <element signature="e#33#65#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Data/UserData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="43" column="39" lean-forward="true" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/LoginAuthMiddleware.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controller/Api/TopicController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Model/Data/StarData.php" />
+    <entry file="file://$PROJECT_DIR$/app/Model/Data/CollectionData.php" />
+    <entry file="file://$PROJECT_DIR$/app/Model/Dao/CollectionDao.php" />
+    <entry file="file://$PROJECT_DIR$/app/Model/Entity/Star.php" />
+    <entry file="file://$PROJECT_DIR$/app/Model/Dao/StarDao.php" />
+    <entry file="file://$PROJECT_DIR$/app/bean.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/swoft">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controller/Api/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/swoft/validator/src/Annotation/Mapping/Validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1961">
+          <caret line="80" column="25" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="25" />
+          <folding>
+            <element signature="e#80#133#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Validator/CustomerValidator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controller/Api/FeedbackController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="33" column="65" lean-forward="true" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
+          <folding>
+            <element signature="e#42#76#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/swoft/validator/src/Annotation/Mapping/Validator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#80#133#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Validator/ArticleValidator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="e#58#103#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Validator/CommonValidator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding>
+            <element signature="e#58#103#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.cn.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/swoft/db/src/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="96" column="27" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Data/ArticleData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Dao/UserCenterDao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Dao/ArticleDao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding>
+            <element signature="e#2109#2179#0#PHP" />
+            <element signature="e#2166#2924#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/language/zh/apiMsg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controller/Api/ArticleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="212" column="5" lean-forward="true" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
+          <folding>
+            <element signature="e#676#721#0#PHP" />
+            <element signature="e#752#818#0#PHP" />
+            <element signature="e#844#915#0#PHP" />
+            <element signature="e#953#1297#0#PHP" />
+            <element signature="e#1136#1408#0#PHP" />
+            <element signature="e#1414#1679#0#PHP" />
+            <element signature="e#1602#1823#0#PHP" />
+            <element signature="e#1829#2104#0#PHP" />
+            <element signature="e#1986#2202#0#PHP" />
+            <element signature="e#2532#2979#0#PHP" />
+            <element signature="e#2240#2413#0#PHP" />
+            <element signature="e#2418#2617#0#PHP" />
+            <element signature="e#2623#2744#0#PHP" />
+            <element signature="e#2749#3031#0#PHP" />
+            <element signature="e#3037#3260#0#PHP" />
+            <element signature="e#3265#3528#0#PHP" />
+            <element signature="e#4252#4450#0#PHP" />
+            <element signature="e#4455#5423#0#PHP" />
+            <element signature="e#4652#4723#0#PHP" />
+            <element signature="e#5020#5295#0#PHP" />
+            <element signature="e#5060#5294#1#PHP" />
+            <element signature="e#5319#5382#0#PHP" />
+            <element signature="e#5429#5604#0#PHP" />
+            <element signature="e#5609#7061#0#PHP" />
+            <element signature="e#6179#6253#0#PHP" />
+            <element signature="e#6552#6934#0#PHP" />
+            <element signature="e#6592#6933#1#PHP" />
+            <element signature="e#6958#7021#0#PHP" />
+            <element signature="e#7068#7176#0#PHP" />
+            <element signature="e#7181#10288#0#PHP" />
+            <element signature="e#7483#7553#0#PHP" />
+            <element signature="e#7603#7729#0#PHP" />
+            <element signature="e#7603#7775#0#PHP" />
+            <element signature="e#7603#7814#0#PHP" />
+            <element signature="e#7603#7867#0#PHP" />
+            <element signature="e#7603#7904#0#PHP" />
+            <element signature="e#7934#8004#0#PHP" />
+            <element signature="e#8035#10217#0#PHP" />
+            <element signature="e#8136#8253#0#PHP" />
+            <element signature="e#8136#8283#0#PHP" />
+            <element signature="e#8342#8458#0#PHP" />
+            <element signature="e#8529#8798#0#PHP" />
+            <element signature="e#8654#8784#0#PHP" />
+            <element signature="e#8859#8933#0#PHP" />
+            <element signature="e#8859#8963#0#PHP" />
+            <element signature="e#9069#9191#0#PHP" />
+            <element signature="e#9234#10017#0#PHP" />
+            <element signature="e#9560#10003#0#PHP" />
+            <element signature="e#9677#10003#0#PHP" />
+            <element signature="e#9703#9985#0#PHP" />
+            <element signature="e#9881#9985#0#PHP" />
+            <element signature="e#10295#10411#0#PHP" />
+            <element signature="e#10416#12467#0#PHP" />
+            <element signature="e#10645#10708#0#PHP" />
+            <element signature="e#10645#10761#0#PHP" />
+            <element signature="e#10791#10868#0#PHP" />
+            <element signature="e#10918#11005#0#PHP" />
+            <element signature="e#10918#11042#0#PHP" />
+            <element signature="e#10918#11087#0#PHP" />
+            <element signature="e#11180#11325#0#PHP" />
+            <element signature="e#11378#11448#0#PHP" />
+            <element signature="e#11378#11478#0#PHP" />
+            <element signature="e#11529#11643#0#PHP" />
+            <element signature="e#11678#12408#0#PHP" />
+            <element signature="e#11987#12398#0#PHP" />
+            <element signature="e#12096#12398#0#PHP" />
+            <element signature="e#12118#12384#0#PHP" />
+            <element signature="e#12288#12384#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Logic/ArticleLogic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="251" selection-start-line="251" selection-end-line="251" />
+          <folding>
+            <element signature="e#1271#1480#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
