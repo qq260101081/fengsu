@@ -46,8 +46,8 @@ return [
     'db'             => [
         'class'    => Database::class,
         'dsn'      => 'mysql:dbname=fengsu;host=127.0.0.1',
-        'username' => 'lxl',
-        'password' => 'lxl123',
+        'username' => 'root',
+        'password' => '123456',
         'charset'  => 'utf8mb4',
         'prefix'   => 'fs_',
     ],
